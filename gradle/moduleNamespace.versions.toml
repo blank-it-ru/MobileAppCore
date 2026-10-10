@@ -1,0 +1,25 @@
+[versions]
+# App
+app = "ru.blank.mobileappcore"
+data = "ru.blank.mobileappcore.data"
+domain = "ru.blank.mobileappcore.domain"
+# Core
+core-entity = "ru.blank.mobileappcore.core.entity"
+core-mvi = "ru.blank.mobileappcore.core.mvi"
+core-utils-buildConfigChecker = "ru.blank.mobileappcore.core.utils.buildConfigChecker"
+core-utils-errorMessageMapper = "ru.blank.mobileappcore.core.utils.errorMessageMapper"
+core-environment = "ru.blank.mobileappcore.core.environment"
+core-logger = "ru.blank.mobileappcore.core.logger"
+core-webview = "ru.blank.mobileappcore.core.webview"
+
+# Network
+network-api = "ru.blank.mobileappcore.network.api"
+network-clientProvider = "ru.blank.mobileappcore.network.provider"
+network-utils = "ru.blank.mobileappcore.network.utils"
+# Navigation
+navigation-api = "ru.blank.mobileappcore.navigation.api"
+navigation-core = "ru.blank.mobileappcore.navigation.core"
+# Features
+feature-splashScreen-presentation = "ru.blank.mobileappcore.feature.splashScreen.presentation"
+feature-splashScreen-router = "ru.blank.mobileappcore.feature.splashScreen.router"
+

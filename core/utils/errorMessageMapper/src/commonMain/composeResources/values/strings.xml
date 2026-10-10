@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_500">Ошибка сервера. Пожалуйста, попробуйте позже</string>
+    <string name="error_404">Страница не найдена</string>
+    <string name="error_403">Доступ запрещен. Проверьте ваши права</string>
+    <string name="error_401">Требуется авторизация. Войдите в систему</string>
+    <string name="error_400">Неверный запрос. Проверьте введенные данные</string>
+    <string name="error_unknown">Произошла неизвестная ошибка</string>
+    <string name="error_null_data">Не удалось получить данные</string>
+    <string name="error_no_internet_connection">Отсутствует интернет соединение</string>
+    <string name="error_empty_response">Получен пустой ответ от сервера</string>
+</resources>
+
